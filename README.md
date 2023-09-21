@@ -15,8 +15,12 @@
 
 - 💬 Let's discuss topics such as uncertainty quantification, causality, hardware security, data storage, and Generative AI.
 
+A curated list of papers, thesis, patents, and source code for Conformal Prediction is available at: https://github.com/valeman/awesome-conformal-prediction <br>
+
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/rahulvishwakarma/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://scholar.google.com/citations?user=F2eTslkAAAAJ&hl=en&oi=ao'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"/></a>
 <br>
 <br>
   <br>
