@@ -7,7 +7,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on causality aware time series classification and probabilistic inference for Hemodialysis use case.
+- 🔭 I’m currently working on causality aware time series classification and probabilistic inference for Hemodialysis.
 
 - 🌱 I’m currently learning MLOps.
 
