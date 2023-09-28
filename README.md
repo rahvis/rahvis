@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on causality aware time series classification and probabilistic inference for Hemodialysis.
 
-- 🌱 I’m currently learning MLOps.
-
 - 👯 I'm eager to join forces on impactful endeavors and intriguing concepts. Feel free to reach out via email for more in-depth conversations. Please email me for further discussion (rahuldeo.vishwakarma01@student.csulb.edu)
 
 - 💬 Let's discuss topics such as uncertainty quantification, causality, hardware security, data storage, and Generative AI.
